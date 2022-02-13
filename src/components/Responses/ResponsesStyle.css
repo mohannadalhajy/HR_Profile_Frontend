@@ -1,0 +1,23 @@
+﻿.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(121, 204, 200,1);
+}
+.dialog > div:nth-child(2) {
+    border-radius: 25px;
+    background-color: #000;
+}
+.table-striped {
+    color: "#FFFFFF";
+    textAlign: center
+}
+
+    .table-striped thead {
+        background-color: rgba(0, 169, 156,1);
+    }
+
+    .table-striped Button {
+        background-color: rgba(0, 169, 156,1);
+    }
+
+.options Button {
+    background-color: rgba(0, 169, 156,1);
+}
